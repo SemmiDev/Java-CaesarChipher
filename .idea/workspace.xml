@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a45b0852-f158-476c-9a0d-aaf9b6e22f7a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bzU9mK8BbFahkIHIXnt6d2yDbe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sammidev.CaesarCipher" />
+      <module name="CaesarCipher" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sammidev.Test" />
+      <module name="CaesarCipher" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sammidev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a45b0852-f158-476c-9a0d-aaf9b6e22f7a" name="Default Changelist" comment="" />
+      <created>1589634269092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589634269092</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1322" height="145" key="GridCell.Tab.0.bottom" timestamp="1589638570596">
+      <screen x="0" y="0" width="1366" height="719" />
+    </state>
+    <state width="1322" height="145" key="GridCell.Tab.0.bottom/0.0.1366.719@0.0.1366.719" timestamp="1589638570596" />
+    <state width="1322" height="145" key="GridCell.Tab.0.center" timestamp="1589638570595">
+      <screen x="0" y="0" width="1366" height="719" />
+    </state>
+    <state width="1322" height="145" key="GridCell.Tab.0.center/0.0.1366.719@0.0.1366.719" timestamp="1589638570595" />
+    <state width="1322" height="145" key="GridCell.Tab.0.left" timestamp="1589638570595">
+      <screen x="0" y="0" width="1366" height="719" />
+    </state>
+    <state width="1322" height="145" key="GridCell.Tab.0.left/0.0.1366.719@0.0.1366.719" timestamp="1589638570595" />
+    <state width="1322" height="145" key="GridCell.Tab.0.right" timestamp="1589638570596">
+      <screen x="0" y="0" width="1366" height="719" />
+    </state>
+    <state width="1322" height="145" key="GridCell.Tab.0.right/0.0.1366.719@0.0.1366.719" timestamp="1589638570596" />
+    <state x="359" y="0" key="SettingsEditor" timestamp="1589634354206">
+      <screen x="0" y="0" width="1366" height="719" />
+    </state>
+    <state x="359" y="0" key="SettingsEditor/0.0.1366.719@0.0.1366.719" timestamp="1589634354206" />
+  </component>
+</project>
